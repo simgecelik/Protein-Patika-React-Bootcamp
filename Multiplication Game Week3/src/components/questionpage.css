@@ -1,0 +1,42 @@
+.tahta {
+    float: left;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    color: #FFF;
+    float:left;
+
+}
+
+.answers{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    color: #FFF;
+    float:right;
+}
+
+
+.navbar>ul {
+  float:right;
+  list-style-type: none;
+  display: inline;
+  
+}
+.navbar>ul>li{
+  display: inline;
+  color:#FFF;
+  margin: 8px;
+  font-size: 20px;
+}
+
+  button {
+    background-color: transparent;
+  }
+
+  .wrapper {
+    height: 100%;
+    min-height: 100vh;
+  }

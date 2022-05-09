@@ -1,0 +1,15 @@
+.box1{
+   float: right;
+   position: relative;
+   left: 8px;
+  
+   
+   
+}
+
+.box2{
+     float:right;
+     left: 500px;
+     margin-right: 50px;
+
+}

@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+* {
+    font-family: "Handlee";
+    margin: auto;
+    color: #fff;
+  }
+
+.final{
+    float: left;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    color:#FF0000 ;
+    margin-left:100px;
+   
+    
+}
+.final>h1{
+    color:#FF0000 ;
+}
+
+
+.questionslist{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    color:#FF0000 ;
+}
+.questionslist>h1{
+    color:#FF0000 ;
+}
+
+ul{
+    list-style: none;
+}
+

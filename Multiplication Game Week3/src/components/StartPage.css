@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+
+* {
+  font-family: "Handlee";
+  margin: auto;
+  color: #ffffff;
+  align-items: center;
+}
+
+body {
+  background-color: #2D2D2D;
+}
+
+#root {
+  height: 100%;
+  min-height: 100vh;
+}
+
+.title {
+  color: #ff0000;
+  margin-bottom: auto;
+}
+
+.table {
+  color: #ffffff;
+}
+
+
+.start {
+  color: #ffffff;
+}
+
+.startpage > h2 {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.startbutton {
+  width: 200;
+  height: 139;
+  margin-top: -95px;
+  text-align: center;
+  font-size: 30px;
+}
+
